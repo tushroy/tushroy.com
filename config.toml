@@ -14,6 +14,7 @@ languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
 title = "Tushar Roy · Landing Page"
+publishDir = "docs"
 
 [blackfriday]
   extensions = ["hardLineBreak"]
